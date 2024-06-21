@@ -1,0 +1,15 @@
+{
+  "block.mmublocks.andesite_bricks": "Andesite Bricks",
+  "block.mmublocks.polished_calcite": "Polished Calcite",
+  "block.mmublocks.calcite_bricks": "Calcite Bricks",
+  "block.mmublocks.diorite_bricks": "Diorite Bricks",
+  "block.mmublocks.granite_bricks": "Granite Bricks",
+  "block.mmublocks.polished_mud": "Polished Mud",
+  "block.mmublocks.blue_nether_bricks": "Blue Nether Bricks",
+
+  "item.mmublocks.red_nether_brick": "Red Nether Brick",
+  "item.mmublocks.blue_nether_brick": "Blue Nether Brick",
+  "item.mmublocks.warped_wart": "Warped Wart",
+  "item.minecraft.nether_wart": "Crimson Wart",
+  "item.minecraft.nether_wart_block": "Crimson Wart Block"
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "mmublocks:andesite_bricks",
+    "mmublocks:calcite_bricks",
+    "mmublocks:diorite_bricks",
+    "mmublocks:granite_bricks",
+    "mmublocks:polished_calcite",
+    "mmublocks:polished_mud",
+    "mmublocks:blue_nether_bricks"
+  ]
+}

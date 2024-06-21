@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_brick"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    }
+  ],
+  "result": {
+    "item": "mmublocks:blue_nether_brick",
+    "count": 1
+  }
+}

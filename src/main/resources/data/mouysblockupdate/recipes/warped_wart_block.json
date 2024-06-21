@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "mmublocks:warped_wart"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    },
+    {
+      "item": "mmublocks:warped_wart"
+    }
+  ],
+  "result": {
+    "item": "minecraft:warped_wart_block"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "mmublocks:polished_calcite"
+  },
+  "result": "mmublocks:calcite_bricks"
+}
