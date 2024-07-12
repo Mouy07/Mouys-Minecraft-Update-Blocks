@@ -10,6 +10,14 @@
   "item.mmublocks.red_nether_brick": "Red Nether Brick",
   "item.mmublocks.blue_nether_brick": "Blue Nether Brick",
   "item.mmublocks.warped_wart": "Warped Wart",
-  "item.minecraft.nether_wart": "Crimson Wart",
-  "item.minecraft.nether_wart_block": "Crimson Wart Block"
+
+
+  "block.minecraft.polished_blackstone_bricks": "Blackstone Bricks",
+  "block.minecraft.cracked_polished_blackstone_bricks": "Cracked Blackstone Bricks",
+  "block.minecraft.polished_blackstone_brick_stairs": "Blackstone Brick Stairs",
+  "block.minecraft.polished_blackstone_brick_slab": "Blackstone Brick Slab",
+  "block.minecraft.polished_blackstone_brick_wall": "Blackstone Brick Wall",
+  "block.minecraft.nether_wart_block": "Crimson Wart Block",
+
+  "item.minecraft.nether_wart": "Crimson Wart"
 }

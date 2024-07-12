@@ -1,8 +1,8 @@
 package mouy.mmublocks;
 
+import mouy.mmublocks.block.ModBlocks;
+import mouy.mmublocks.item.ModItems;
 import net.fabricmc.api.ModInitializer;
-import mouy.mmublocks.block.*;
-import mouy.mmublocks.item.*;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -22,20 +22,8 @@ public class MouysMinecraftUpdateBlocks implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		// Put a registerBlock call for each block here.
-		MouysMinecraftUpdateBlocks.LOGGER.info("Registering blocks for " + MouysMinecraftUpdateBlocks.MOD_ID);
-		AndesiteBricks.registerBlock();
-		PolishedCalcite.registerBlock();
-		CalciteBricks.registerBlock();
-		DioriteBricks.registerBlock();
-		GraniteBricks.registerBlock();
-		PolishedMud.registerBlock();
-		BlueNetherBricks.registerBlock();
+		ModBlocks.onInitialize();
+		ModItems.onInitialize();
 
-		// Final version shouldn't contain any items that aren't blocks.
-		MouysMinecraftUpdateBlocks.LOGGER.info("Registering items for " + MouysMinecraftUpdateBlocks.MOD_ID);
-		RedNetherBrick.registerItem();
-		BlueNetherBrick.registerItem();
-		WarpedWart.registerItem();
 	}
 }
