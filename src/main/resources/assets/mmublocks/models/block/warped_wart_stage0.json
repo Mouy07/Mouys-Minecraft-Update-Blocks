@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "mmublocks:block/warped_wart_stage0"
+  }
+}
