@@ -1,7 +1,7 @@
-// 1.20.1	2024-07-11T18:11:44.9810686	Mouy's Minecraft Update: Blocks/Block Loot Tables
+// 1.20.1	2024-07-25T21:32:34.4105304	Mouy's Minecraft Update: Blocks/Block Loot Tables
 4be39c06abf67b87d417b89b6e27a5616a0d5333 data\mmublocks\loot_tables\blocks\diorite_bricks.json
-58f5d10e0688bf83f4dd3a9eb7450a29c6addbcc data\mmublocks\loot_tables\blocks\polished_calcite.json
 eb8ee9dc82c7bc557416ce689fdafe4cd7307e74 data\mmublocks\loot_tables\blocks\granite_bricks.json
+58f5d10e0688bf83f4dd3a9eb7450a29c6addbcc data\mmublocks\loot_tables\blocks\polished_calcite.json
 d157939422f1d0cda9f1bbf0d22dcbbaa6dbb8c4 data\mmublocks\loot_tables\blocks\calcite_bricks.json
 17b1bcd4bd6d6f3b56a7783d8daf59abb1fa4fd0 data\mmublocks\loot_tables\blocks\andesite_bricks.json
 5a84f633c0d1031ab160a12af1df29435c31570d data\mmublocks\loot_tables\blocks\blue_nether_bricks.json

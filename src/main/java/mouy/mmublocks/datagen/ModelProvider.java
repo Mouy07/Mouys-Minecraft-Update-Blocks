@@ -1,7 +1,6 @@
 package mouy.mmublocks.datagen;
 
 import mouy.mmublocks.block.ModBlocks;
-import mouy.mmublocks.block.WarpedWartCropBlock;
 import mouy.mmublocks.item.ModItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
@@ -32,6 +31,7 @@ public class ModelProvider extends FabricModelProvider {
 
         itemModelGenerator.register(ModItems.BLUE_NETHER_BRICK, Models.GENERATED);
         itemModelGenerator.register(ModItems.RED_NETHER_BRICK, Models.GENERATED);
+        itemModelGenerator.register(ModItems.WARPED_WART, Models.GENERATED);
 
     }
 }

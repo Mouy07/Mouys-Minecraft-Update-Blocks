@@ -47,7 +47,7 @@ public class ModBlocks {
     public static final Block POLISHED_END_STONE = registerBlock("polished_end_stone", new Block(FabricBlockSettings.copyOf(Blocks.END_STONE_BRICKS)));
     public static final Block CRACKED_END_STONE_BRICKS = registerBlock("cracked_end_stone_bricks", new Block(FabricBlockSettings.copyOf(Blocks.END_STONE_BRICKS)));
 
-    public static final Block WARPED_WART = registerBlock("warped_wart", new Block(FabricBlockSettings.copyOf(Blocks.NETHER_WART)));
+    public static final Block WARPED_WART = registerBlock("warped_wart", new WarpedWartCropBlock(FabricBlockSettings.copyOf(Blocks.NETHER_WART)));
 
     // Stairs
     public static final Block BLUE_NETHER_BRICK_STAIRS = registerBlock("blue_nether_brick_stairs", new StairsBlock(ModBlocks.BLUE_NETHER_BRICKS.getDefaultState(), FabricBlockSettings.copyOf(ModBlocks.BLUE_NETHER_BRICKS)));
@@ -106,7 +106,7 @@ public class ModBlocks {
         return Registry.register(Registries.BLOCK, new Identifier(MouysMinecraftUpdateBlocks.MOD_ID, blockID), block);
     }
 
-    public static void onInitialize() {
+    public static void init() {
         MouysMinecraftUpdateBlocks.LOGGER.info("Registering items for " + MouysMinecraftUpdateBlocks.MOD_ID);
     }
 }

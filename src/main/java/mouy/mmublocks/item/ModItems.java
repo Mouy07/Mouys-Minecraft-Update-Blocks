@@ -105,7 +105,7 @@ public class ModItems {
         return aliasedBlockItem;
     }
 
-    public static void onInitialize() {
+    public static void init() {
         MouysMinecraftUpdateBlocks.LOGGER.info("Registering blocks for " + MouysMinecraftUpdateBlocks.MOD_ID);
     }
 }
